@@ -1,6 +1,7 @@
 ##Simple Wake on Lan - Param is MAC Address
 ##Based on script made by © powershell.one (Dr. Tobias Weltner) Apr 29, 2020 - https://powershell.one/code/11.html - 
 #Added Function to allow this to be used with NCentral with Scripting - Simple-Wake-On-Lan.ps1 MAC:ADDRESS
+
 function Invoke-WakeOnLan
 {
   param
